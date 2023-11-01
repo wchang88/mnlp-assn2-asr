@@ -1,1 +1,1 @@
-This is the directory for Guarani.
+This is the directory for Quechua.
