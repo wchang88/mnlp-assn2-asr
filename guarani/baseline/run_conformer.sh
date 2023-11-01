@@ -23,6 +23,5 @@ set -o pipefail
     --bpe_train_text "data/train/text" \
     --lm_train_text "data/train/text" \
     --audio_format wav \
-    --wandb_name 'gn_conformer_baseline' \
     --expdir exp_gn_conformer "$@"
 
