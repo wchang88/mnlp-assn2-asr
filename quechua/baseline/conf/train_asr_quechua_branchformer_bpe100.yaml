@@ -58,4 +58,4 @@ scheduler: warmuplr  # linearly increase and exponentially decrease
 scheduler_conf:
     warmup_steps: 800
 
-wandb_name: gn_branchformer_baseline_bpe100
+wandb_name: quy_branchformer_baseline_bpe100

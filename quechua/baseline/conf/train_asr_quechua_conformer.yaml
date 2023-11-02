@@ -53,7 +53,7 @@ scheduler: warmuplr  # linearly increase and exponentially decrease
 scheduler_conf:
     warmup_steps: 800
 
-wandb_name: gn_conformer_baseline
+wandb_name: quy_conformer_baseline
 
 # frontend_conf:
 #   n_fft: 512
