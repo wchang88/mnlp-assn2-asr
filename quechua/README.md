@@ -55,7 +55,7 @@ cd conf
 cd ..
 ```
 
-Copy over the configuration files under `baseline`, `pretrained`, `multilingual` depending on which training you want to do
+Copy over the configuration files under `baseline`, `pretrained`, `multilingual` depending on which training you want to do.
 
 #### Data preparation files
 
