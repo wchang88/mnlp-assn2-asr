@@ -13,6 +13,7 @@ set -o pipefail
     --gpu_inference true \
     --inference_nj 1 \
     --use_lm true \
+    --lm_config conf/train_lm_transformer.yaml \
     --lang quy \
     --token_type bpe \
     --nbpe 100 \
