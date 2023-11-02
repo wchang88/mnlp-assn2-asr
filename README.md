@@ -1,22 +1,63 @@
-# mnlp-assn2-asr
+# Multilingual NLP Assignment 2: ASR
 Winnie Chang (winniech) &amp; Yash Mathur (ymathur)
 
-Directory Structure
+#### For how to run the respective experiments, please refer to the README's under each language's directory
+
+### Directory Structure
+
 ```
-guarani
-  -local
-    =data.sh
-    =data_prep files
-  -baseline
-    -conf
-      =configuration files
-    =run.sh files
-  -pretrained
-    -conf
-      =configuration files
-    =run.sh files
-  -multilingual
-    -conf
-      =configuration files
-    =run.sh files
+.
+├── guarani
+│   ├── baseline
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   ├── multilingual
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   ├── pretrained
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   └── README.md
+├── quechua
+│   ├── baseline
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   ├── multilingual
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   ├── pretrained
+│   │   ├── conf
+|   |   |   ├── ...
+│   │   │   └── README.md
+│   │   ├── README.md
+│   │   └── run files ...
+│   |   ├── local
+│   │   |   └── data preparation files
+│   └── README.md
+└── README.md
 ```

@@ -41,7 +41,7 @@ unzip -q <dataset_compressed_filename> -d ./arg_span
 cd ..
 ```
 
-### 2. Copy over the configuration files and data preparation files
+### 2. Copy over the configuration files, data preparation files, and run files
 
 #### Configuration files
 
@@ -52,7 +52,7 @@ cd conf
 cd ..
 ```
 
-Copy over the configuration files under `baseline`, `pretrained`, `multilingual` depending on which training you want to do
+Copy over the configuration files under `baseline`, `pretrained`, `multilingual` depending on which training you want to do.
 
 #### Data preparation files
 
