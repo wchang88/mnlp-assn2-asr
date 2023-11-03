@@ -7,6 +7,7 @@ Winnie Chang (winniech) &amp; Yash Mathur (ymathur)
 
 ```
 .
+├── github.txt
 ├── MNLP_Assignment_2_Report.pdf
 ├── guarani
 │   ├── baseline
