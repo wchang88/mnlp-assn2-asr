@@ -7,6 +7,7 @@ Winnie Chang (winniech) &amp; Yash Mathur (ymathur)
 
 ```
 .
+├── MNLP_Assignment_2_Report.pdf
 ├── guarani
 │   ├── baseline
 │   │   ├── conf
@@ -32,7 +33,8 @@ Winnie Chang (winniech) &amp; Yash Mathur (ymathur)
 │   │   └── run files ...
 │   |   ├── local
 │   │   |   └── data preparation files
-│   └── README.md
+│   ├── README.md
+│   └── Guarani_ASR_wanbd_report.pdf
 ├── quechua
 │   ├── baseline
 │   │   ├── conf
@@ -58,6 +60,7 @@ Winnie Chang (winniech) &amp; Yash Mathur (ymathur)
 │   │   └── run files ...
 │   |   ├── local
 │   │   |   └── data preparation files
-│   └── README.md
+│   ├── README.md
+│   └── Quechua_ASR_wanbd_report.pdf
 └── README.md
 ```

@@ -75,3 +75,7 @@ First copy over the relevant `run.sh` files from `baseline`, `pretrained`, `mult
 You can follow the tutorials in ESPnet for more information on how to run different stages.
 
 If you encounter any issues with permissions, run `chmod +x <file_name>` on the scripts that have permission errors.
+
+
+### 4. wandb Report
+All the runs present in the report and additional runs performed are available in the report titled Guarani_ASR_wandb_report.pdf
